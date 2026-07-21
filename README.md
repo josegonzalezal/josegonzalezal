@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi, I'm José 👋
 
-<!--
-**josegonzalezal/josegonzalezal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Software Engineering Trainee at **Nebius**, currently completing a Higher Vocational Certificate (Grado Superior) in Multiplatform Application Development (DAM) in León, Spain.
 
-Here are some ideas to get you started:
+I work mainly in **Python**, **TypeScript/JavaScript**, and applied AI — with a growing focus on LLM-based agent systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**🔧 Currently building**
+
+A personal multi-agent assistant using **Claude Code subagents** — a fast model (Haiku) handles information gathering, while a stronger model (Sonnet) reviews and refines output before it's used. Configured via `CLAUDE.md` and `.claude/agents/`, synced across devices with Git.
+
+**🎓 Background**
+
+- CS50x & CS50AI (Harvard University, via edX)
+- Prior technical training in Telecommunications Installations
+- Currently: DAM (Multiplatform Application Development)
+
+**🛠️ Stack**
+
+`Python` · `TypeScript` · `JavaScript` · `Next.js` · `Supabase` · `Git`
+
+**📫 Reach me**
+
+[LinkedIn](https://www.linkedin.com/in/josegonzalezal) · [ORCID](https://orcid.org/my-orcid)
+
+---
+
+*Currently interested in: backend development, applied AI, agent architectures, and clean cross-platform app design.*
