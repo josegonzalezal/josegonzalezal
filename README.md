@@ -23,7 +23,9 @@ I work mainly in **TypeScript** and **Python**, with a focus on shipping LLM-bas
 
 ### 🎓 Education & Certifications
 
-**Centro de FP María Auxiliadora Salesianas León** — Grado Superior, Desarrollo de Aplicaciones Multiplataforma (2024–2026)
+**Vocational Training Center María Auxiliadora Salesianas León** — Higher Vocational Training, Multiplatform Software Development; (2024–2026)
+
+**Vocational Training Center SaFa Tech Valladolid** — Higher Vocational Training, Multiplatform Software Development; (2026–current)
 
 Verified certifications:
 
@@ -34,6 +36,7 @@ Verified certifications:
 - [Introduction to Model Context Protocol](https://verify.skilljar.com/c/r2jikcst3ght) — Anthropic
 - [Claude in Amazon Bedrock](https://verify.skilljar.com/c/h82jts9ow4wa) — Anthropic
 - [AI Fluency: Framework & Foundations](https://verify.skilljar.com/c/zs2c7qjf3asz) — Anthropic
+- LinkedIn Premium Certificates - Linkedin (see my LinkedIn profile)
 
 <details>
 <summary>More Anthropic Academy certifications</summary>
