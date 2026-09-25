@@ -1,8 +1,6 @@
 ### Hi, I'm José 👋
 
-AI Software Engineering Trainee at **Nebius**, based in Amsterdam, and completing a Higher Vocational Certificate (Grado Superior) in Multiplatform Application Development (DAM) in León, Spain.
-
-I work mainly in **TypeScript** and **Python**, with a focus on shipping LLM-based systems that actually run in production — not just prototypes.
+I was an AI Software Engineering Trainee at **Nebius** (june - august), based in Amsterdam, and I currently am completing a Higher Vocational Certificate in Multiplatform Software Development in Spain.
 
 ---
 
