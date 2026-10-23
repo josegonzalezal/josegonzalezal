@@ -1,31 +1,65 @@
-### Hi, I'm José 👋
+# Hi, I'm José :wave:
 
-I was an AI Software Engineering Trainee at **Nebius** (june - august), based in Amsterdam, and I currently am completing a Higher Vocational Certificate in Multiplatform Software Development in Spain.
+Aspiring **AI software engineer** focused on *LLM applications*, *agent architectures* and *secure, clean backends*.
 
----
-
-### 🔧 What I'm working on
-
-**Production work @ Nebius** — Building an AI application on **AWS Bedrock** (Amazon Nova for generation and embeddings) with a **Next.js / TypeScript** frontend, **Supabase** for data and auth, **Trigger.dev** for background jobs, and **Langfuse** for tracing and evaluation. Day-to-day this means prompt and retrieval design, observability, and keeping the local dev stack (Docker, WSL2) reproducible.
-
-**Multi-agent assistant** — A two-phase agent pattern: a fast model gathers and structures information, a stronger model audits the draft before it's returned. Implemented both as **Claude Code subagents** (`CLAUDE.md` + `.claude/agents/`, synced with Git) and as a portable single-model system prompt that runs unchanged across Claude Projects and other providers.
+> "The best way to predict the future is to invent it." — Alan Kay
 
 ---
 
-### 🧪 Side projects
+## :bust_in_silhouette: About me
 
-- **Palimpsest** — Password-based encryption and image steganography. AES-256-GCM for the payload, LSB embedding in PNG, with a Next.js/Supabase backend holding a server-side pepper so the ciphertext alone isn't enough.
-- **Ghost Font** — Animated steganographic text rendering: characters are encoded as directional motion inside a field of binary noise, readable only while in motion.
+- :mortar_board: Higher Vocational student in **Multiplatform Software Development** (Spain)
+- :briefcase: Former **AI Software Engineering Trainee** at **Nebius** (June–August 2026, Amsterdam)
+- :lock: Interested in applied AI, agent architectures and backend development
+- :speech_balloon: Spanish (native) · English (full professional)
 
 ---
 
-### 🎓 Education & Certifications
+## :briefcase: Experience
 
-**Vocational Training Center María Auxiliadora Salesianas León** — Higher Vocational Training, Multiplatform Software Development; (2024–2026)
+### AI Software Engineering Trainee — Nebius
 
-**Vocational Training Center SaFa Tech Valladolid** — Higher Vocational Training, Multiplatform Software Development; (2026–current)
+*June–August 2026 · Amsterdam*
 
-Verified certifications:
+Built a production AI application using:
+
+- **AWS Bedrock** (Amazon Nova for generation and embeddings)
+- **Next.js / TypeScript** for the frontend
+- **Supabase** for data and authentication
+- **Trigger.dev** for background jobs
+- **Langfuse** for tracing and evaluation
+
+Day-to-day work included prompt and retrieval design, observability, and keeping the local development stack (Docker, WSL2) reproducible.
+
+---
+
+## :hammer_and_wrench: Projects
+
+### Multi-agent assistant
+
+A two-phase agent pattern: a fast model gathers and structures information, and a stronger model audits the draft before it is returned. It is implemented in two ways:
+
+1. As **Claude Code subagents** (`CLAUDE.md` + `.claude/agents/`, synced with Git).
+2. As a portable single-model system prompt that runs unchanged across Claude Projects and other providers.
+
+### Palimpsest
+
+Password-based encryption and image steganography. It uses AES-256-GCM for the payload and LSB embedding in PNG files, with a Next.js/Supabase backend holding a server-side *pepper*, so the ciphertext alone is not enough to recover the message.
+
+### Ghost Font
+
+Animated steganographic text rendering: characters are encoded as directional motion inside a field of binary noise, readable only while in motion.
+
+---
+
+## :books: Education & Certifications
+
+### Education
+
+- **SaFa Tech Valladolid** — Higher Vocational Training, Multiplatform Software Development (2026–present)
+- **Centro de Formación Profesional María Auxiliadora, Salesianas León** — Higher Vocational Training, Multiplatform Software Development (2024–2026)
+
+### Verified certifications
 
 - [CS50x: Introduction to Computer Science](https://courses.edx.org/certificates/89b65df8f89442ee8d0baf5ab08560d4) — Harvard University, via edX
 - [CS50AI: Introduction to Artificial Intelligence with Python](https://courses.edx.org/certificates/f6c923ae2fed4d5398797b558b361865) — Harvard University, via edX
@@ -34,7 +68,7 @@ Verified certifications:
 - [Introduction to Model Context Protocol](https://verify.skilljar.com/c/r2jikcst3ght) — Anthropic
 - [Claude in Amazon Bedrock](https://verify.skilljar.com/c/h82jts9ow4wa) — Anthropic
 - [AI Fluency: Framework & Foundations](https://verify.skilljar.com/c/zs2c7qjf3asz) — Anthropic
-- LinkedIn Premium Certificates - Linkedin (see my LinkedIn profile)
+- LinkedIn Premium certificates — see my [LinkedIn profile](https://www.linkedin.com/in/josegonzalezal)
 
 <details>
 <summary>More Anthropic Academy certifications</summary>
@@ -49,27 +83,22 @@ Verified certifications:
 
 ---
 
-### 🛠️ Stack
+## :toolbox: Stack
 
-**Languages** · `TypeScript` · `JavaScript` · `Python` · `SQL` · `C` · `C++` · `HTML/CSS`
-
-**AI & LLM** · AWS Bedrock (Amazon Nova) · Claude API · Model Context Protocol · agent orchestration · RAG & embeddings · prompt engineering · Langfuse (tracing / evals)
-
-**Backend & Data** · Next.js · Supabase · PostgreSQL · Trigger.dev · Flask · SQLite
-
-**Infra & Tooling** · Git · Docker · Linux / WSL2 · command-line workflows
-
-**Foundations** (coursework, CS50AI) · machine learning · neural networks · NLP · computer vision · reinforcement learning
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | `TypeScript` · `JavaScript` · `Python` · `SQL` · `C` · `C++` · `HTML/CSS` |
+| **AI & LLM** | AWS Bedrock (Amazon Nova) · Claude API · Model Context Protocol · agent orchestration · RAG & embeddings · prompt engineering · Langfuse |
+| **Backend & Data** | Next.js · Supabase · PostgreSQL · Trigger.dev · Flask · SQLite |
+| **Infra & Tooling** | Git · Docker · Linux / WSL2 · command-line workflows |
+| **Foundations** | Machine learning · neural networks · NLP · computer vision · reinforcement learning (CS50AI coursework) |
 
 ---
 
-### 🌐 Languages
+## :globe_with_meridians: Connect
 
-Spanish (Native) · English (Full Professional)
-
-### 📫 Connect
-
-[LinkedIn](https://www.linkedin.com/in/josegonzalezal) · [ORCID](https://orcid.org/0009-0003-1041-221X)
+- [LinkedIn](https://www.linkedin.com/in/josegonzalezal)
+- [ORCID](https://orcid.org/0009-0003-1041-221X)
 
 ---
 
